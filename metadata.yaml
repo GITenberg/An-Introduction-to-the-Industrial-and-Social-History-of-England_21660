@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1383'
     url: http://www.gutenberg.org/2009/agents/1383
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21660#An-Introduction-to-the-Industrial-and-Social-History-of-England
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2007-06-01'
 gutenberg_type: Text
